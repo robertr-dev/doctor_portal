@@ -1,0 +1,74 @@
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1em;
+   background-color: #FFFFFF;
+}
+
+html, body {
+	height: 100%;
+}
+
+#caseColumn {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+   background-color: #FFFFFF;
+   text-align: center;
+}
+
+.signed_in {
+	font-size: 0.5em;
+}
+
+.header {
+   background-color: #1D3557;
+   color: #FFFFFF;
+}
+
+.custom-menu {
+   background-color: #457B9D;
+}
+
+a:link#custom-link {
+   color: #FFFFFF;
+}
+
+a:visited#custom-link {
+   color: #FFFFFF;
+}
+
+a:hover#custom-link {
+   color: #1D3557;
+   background-color: #FFFFFF;
+}
+
+#custom-button-primary {
+   background-color: #1D3557;
+   border-color: #A8DADC;
+}
+
+#custom-button-primary:hover {
+   background-color: white;
+   border-color: #1D3557;
+   color: #1D3557;
+}
+
+#custom-button {
+   background-color: #457B9D;
+   border-color: #457B9D;
+   color: white;
+}
+
+#custom-button:hover {
+   background-color: white;
+   border-color: #1D3557;
+   color: #1D3557;
+}
+
